@@ -12,8 +12,22 @@ html {
     display: flex;
     justify-content: center;
     align-items: center;  
+    flex-direction: column;
+}
+
+.tile {
+  height: 450px; 
+  border-radius: 12px; 
+  background-color: #fff;
+  margin: 12px;
+  width: 100%;
+  border-style: solid;
+  border-width: 3px;
+  border-color: darkgrey;
+  padding: 1em;
 }
 
 .u-full-height {
   height: 100vh;
 }
+
