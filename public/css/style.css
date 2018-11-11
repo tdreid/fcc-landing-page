@@ -19,6 +19,7 @@ html {
     justify-content: center;
     align-items: center;  
     flex-direction: column;
+    margin-top: 5em;
 }
 
 .sticky-top {
@@ -43,3 +44,6 @@ html {
   height: 100vh;
 }
 
+#header-img {
+  margin-top: 2em;
+}
